@@ -6,7 +6,7 @@
 
 
 // 2. Declare an empty array using JS object notation to store student names in future.
-// var s_names = [];
+// var s_names = newArray();
 
 
 // 3. Declare and initialize a strings array.
@@ -254,11 +254,12 @@
 //     Display the following dropdown/select menu in your
 //     browser using document.write() method:
 
-
-var phone = ["Apple", "Samsung", "Motorola", "Nokia", "Sony" , "Haier"];
-document.write('<select>
-    <option>${phone[0]}</option>
-    <option>${Apple}</option>
-    <option>Apple</option>
-    <option>Apple</option>
-    </select>')
+// var phone = ["Apple", "Samsung", "Motorola", "Nokia", "Sony" , "Haier"];
+// document.write( ` <select>
+//         <option>${phone[0]}</option>
+//         <option>${phone[1]}</option>
+//         <option>${phone[2]}</option>
+//         <option>${phone[3]}</option>
+//         <option>${phone[4]}</option>
+//         <option>${phone[5]}</option>
+//         </select> ` )
